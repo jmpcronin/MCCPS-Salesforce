@@ -1,7 +1,7 @@
-MyDomain-Sample
+MyDomain-Sample-MCCPS
 ====================
 
-A simple example to brand your Salesforce My Domain
+A simple example to brand your Salesforce My Domain. Content and Rebranded for MCCPS
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/salesforceidentity/MyDomain-Sample)
 
